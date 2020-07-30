@@ -125,4 +125,3 @@ func main() {
 
 	fmt.Printf("%+v\n %+v\n %+v\n %+v\n %+v\n", doctor, driver, teacher, military, builder)
 }
-
